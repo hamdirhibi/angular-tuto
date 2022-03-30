@@ -4,6 +4,7 @@
 ## requirements
 
 Install nodejs & npm : https://nodejs.org/en/download/
+
 Install angular: npm install -g @angular/cli
 
 ## How to install project locally ? 
